@@ -1,0 +1,104 @@
+.abovelink {
+    display: inline;
+    text-align: center;
+    /* position: relative; */
+    top: 0px;
+    margin-top: 30;
+    font-size: 16px;
+    margin-left: 10px;
+    width: 121px;
+    height: 35px;
+    line-height: 35px;
+    /* float: left; */
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+#headerTitle {
+    position: relative;
+    text-align: left;
+    top: 14px;
+    left: 22px;
+    font-size: 29px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.abovelink>a {
+    color: black;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 150px;
+    border-bottom: dashed 1px;
+}
+
+#headerSubtext {
+    position: relative;
+    text-align: left;
+    top: 12px;
+    left: 22px;
+    font-size: 14px;
+    color: #25060b;
+    /* font-family: ; */
+}
+
+.picture {
+    position: relative;
+    width: 650px;
+    height: 325px;
+    top: 10px;
+    margin-left: 10px;
+    background-image: url("https://proyecto-sabana.vercel.app/assets/img/mainImage.jpg");
+}
+
+h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding-top: 18px;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: #1f1603;
+}
+
+p {
+    font-size: 13px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: black;
+    line-height: 24px;
+    font-family: "Adobe Garamond Pro Bold", Georgia, 'Times New Roman', Times, serif;
+}
+
+.linkuno {
+    color: #C87002;
+    text-decoration: none;
+}
+
+blockquote {
+    font-size: 12px;
+    text-align: justify;
+    width: 400px;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://proyecto-sabana.vercel.app/assets/img/blockquote.png");
+    background-repeat: no-repeat;
+    border: dashed;
+    border-color: #C87002;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+#uniquepicture {
+    width: 670px;
+    height: 345px;
+    background-color: #160306;
+}
+nav { display: flex;
+
+}
+ 
